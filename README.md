@@ -1,1 +1,1 @@
-mergesplit_TBB.cc is the demultiplexing code using multithreading. Anything without TBB in the name does not use multithreading.
+mergesplit_TBB.cc is the demultiplexing code using multithreading. /old is full of various old reading/writing codes that don't use multithreading.
